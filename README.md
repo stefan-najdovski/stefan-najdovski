@@ -3,4 +3,5 @@
 <h3> Here's some fun facts about me: </h3>
 
 -  **I'm a self thought Android App developer**
--  **I'd love to get into a career in Computational Photography, thinker with Bare Metal Hardware and hack devices to gain root (I belive in Open Hardware and Software**
+-  **I'd love to get into a career in Computational Photography, thinker with Bare Metal Hardware and hack devices to gain root (I belive in Open Hardware and Software)**
+-  **Linux User**
