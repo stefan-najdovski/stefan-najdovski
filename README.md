@@ -1,4 +1,4 @@
-# Hello Wonderful Person <img src= "https://i.imgur.com/0TnM8vH.gif" width= "30" height= "30">  <img src= "https://i.imgur.com/0TnM8vH.gif width= "30" height= "30"> <img src= "https://i.imgur.com/0TnM8vH.gif width= "30" height="30"> 
+# Hello Wonderful Person <img src= "https://i.imgur.com/0TnM8vH.gif" width= "30" height= "30"> <img src= "https://i.imgur.com/0TnM8vH.gif" width= "30" height= "30"> <img src= "https://i.imgur.com/0TnM8vH.gif" width= "30" height= "30">
 
 <h3> Here's some fun facts about me: </h3>
 
