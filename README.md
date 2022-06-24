@@ -3,5 +3,6 @@
 <h3> About me: </h3>
 
 -  **I'm a self thought Android App developer**
--  **I'd love to get into a career in Computational Photography, thinker with Bare Metal Hardware and hack devices to gain root (I belive in Open Hardware and Software)**
+-  **I'd love to get into a career linked with Computational Photography and or creating hardware for it.**
+-  **Also I like to thinker with Bare Metal Hardware and hack devices to gain root (I belive in Open Hardware and Software with full control and ownership)**
 -  **Linux User**
