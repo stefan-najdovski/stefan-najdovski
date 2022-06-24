@@ -7,3 +7,4 @@
 -  **Also I like to thinker with Bare Metal Hardware and hack devices to gain root (I belive in Open Hardware and Software with full control and ownership)**
 -  **Linux User**
 -  **<img src= "https://raw.githubusercontent.com/stefan-najdovski/stefan-najdovski/main/doNothing.png">** 
+-  **<img src= "https://raw.githubusercontent.com/stefan-najdovski/stefan-najdovski/main/pepe_emo_meme.gif">** 
